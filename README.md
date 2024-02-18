@@ -1,1 +1,2 @@
 # mini-project
+This is a simple game where the player plays 5 rounds against the computer in a Rock, Paper, Scissors match. The player is prompted to input their choice (Rock, Paper, or Scissors), and the computer generates a random choice. The player's choice is compared to the computer's, and the result of each round (win, lose, or draw) is displayed. In the end, the winner is announced based on the number of rounds won by the player or the computer.
