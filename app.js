@@ -43,7 +43,9 @@ function playGame() {
     );
   } else if (playerCount < computeCount) {
     console.log(
-      `Oops! The computer dominated, winning ${computeCount} rounds out of 5.`
+      `Oops! The computer dominated, winning ${
+        computeCount + 1
+      } rounds out of 5.`
     );
   } else {
     console.log("It's a close match! The player and the computer are tied.");
